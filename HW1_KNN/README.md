@@ -1,10 +1,10 @@
 # True and Deceptive Hotel Reviews
 
-CS 584 Data Mining Project 1. (Feb., 7, 2019)
+CS 584 Data Mining Project 1. (Feb., 7, 2019)<br>
 The main goal of this project is to predict the class (truthful or deceptive)) of hotel reviews by implement the k Nearest Neighbor Algorithm.
 
 ## Data
-Training data consists of 1,600 reviews and exists in the train data file. Each file represents a review and the folder where it is contained (truthful or deceptive) represents its class.
+Training data consists of 1,600 reviews and exists in the train data file. Each file represents a review and the folder where it is contained (truthful or deceptive) represents its class.<br>
 Testing data consists of 160 hotel reviews provided in the test file.
 
 ## Dealing with data
@@ -18,8 +18,9 @@ Testing data consists of 160 hotel reviews provided in the test file.
 3. Validation: Use cross validation to find the best K.
 
 ## Conclusion
-The k nearest neighbor classification was introduced in this assignment, which provided me a better view and concept on classification and data mining. I have learned how to deal with text document and create tf-idf; in addition, the cross validation allows me to test my algorithms and tune the parameter, which is very helpful.
+The k nearest neighbor classification was introduced in this assignment, which provided me a better view and concept on classification and data mining. I have learned how to deal with text document and create tf-idf; in addition, the cross validation allows me to test my algorithms and tune the parameter, which is very helpful.<br>
 (This project was assigned at the first class; mainly to help students have a better overview on Data Mining.) 
 
 ## Rank and accuracy score on leaderboard
-10/ 0.86
+10<br>
+0.86
